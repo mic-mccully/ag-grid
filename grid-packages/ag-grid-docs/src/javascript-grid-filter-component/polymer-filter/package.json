@@ -27,7 +27,7 @@
     "@webcomponents/webcomponentsjs": "^1.0.20",
     "@ag-grid-community/core": "~22.0.0",
     "@ag-grid-community/polymer": "~22.0.0",
-    "polymer-cli": "1.8.0"
+    "polymer-cli": "1.9.3"
   },
   "resolutions": {
     "@webcomponents/webcomponentsjs": "1.0.20"
