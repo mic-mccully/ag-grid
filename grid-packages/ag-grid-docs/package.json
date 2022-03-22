@@ -53,7 +53,7 @@
     "jsdom": "13.0.0",
     "lnk": "1.1.0",
     "mkdir-p": "0.0.7",
-    "mkdirp": "0.5.1",
+    "mkdirp": "0.5.2",
     "moment": "2.22.2",
     "prettier": "~1.18.2",
     "puppeteer": "1.7.0",
